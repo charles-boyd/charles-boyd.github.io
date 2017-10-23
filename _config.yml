@@ -27,7 +27,7 @@ github_username:  charles-boyd
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-slate
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
